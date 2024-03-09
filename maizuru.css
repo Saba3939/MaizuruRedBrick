@@ -40,7 +40,9 @@ header .nav .menu li a {
 main {
     text-align: center;
 }
-
+main img{
+    vertical-align: bottom;
+}
 h2 {
     color: #B78D4A;
     text-decoration: none;
