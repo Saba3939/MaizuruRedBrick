@@ -21,7 +21,6 @@ header {
 
 header .nav .menu {
     display: flex;
-    
 }
 
 header .nav .menu li {
@@ -36,23 +35,18 @@ header .nav .menu li a {
     text-decoration: none;
 }
 
-
 main {
     text-align: center;
 }
-main img{
+
+main img {
     vertical-align: bottom;
 }
-h2 {
-    color: #B78D4A;
-    text-decoration: none;
-    padding-top: 100px;
-}
+
 
 footer {
-    background: #CCC;
+    background: #FFFFFF;
     padding: 1em;
-    margin-top: 100px;
 }
 
 footer p {
@@ -78,4 +72,20 @@ li {
 
 .blue {
     background-color: #0066BB;
+}
+
+.box {
+    background: #0066BE;
+    /*背景色の指定*/
+    color: #ffffff;
+    /*テキストの色の指定*/
+    width:300px;
+    height: 50px;
+    margin-top: 40px;
+    margin-bottom: 100px;
+    
+}
+
+.box h2 {
+    padding: 10px;
 }
